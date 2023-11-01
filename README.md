@@ -37,14 +37,12 @@ In my spare time I maintain the software on several servers and routers. I even 
 ### Package managers
 
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)](#)
-[![Nix()](#)
-[![Apt()](#)
 
 ### Data
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?logo=mysql&logoColor=white&style=flat)](#)
 [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white&style=flat)](#)
-[![PostgreSQL()](#)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=plastic)](#)
 
 ### Infrastructure
 
