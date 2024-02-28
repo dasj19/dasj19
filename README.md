@@ -67,6 +67,11 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?logo=openwrt&logoColor=fff&style=plastic)](#)
 [![Kali](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=flat&logo=Kali-Linux&logoColor=white)](#)
 
+### Mobile OS
+[![/e/ Badge](https://img.shields.io/badge/%2Fe%2F-000?logo=e&logoColor=fff&style=flat)](#)
+[![Android Badge](https://img.shields.io/badge/Android-34A853?logo=android&logoColor=fff&style=flat)](#)
+[![LineageOS Badge](https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=flat)](#)
+
 ### IDE
 
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?logo=Visual-Studio-Code&logoColor=white&style=flat)](#)
@@ -76,6 +81,13 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?logo=Insomnia&logoColor=white&style=flat)](#)
 [![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?logo=wireshark&logoColor=white&style=flat)](#)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)](#)
+
+### Hardware architecture
+x86_32
+x86_64
+arm_32
+arm_65
+MIPS
 
 ### CVS
 
