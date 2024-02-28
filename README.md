@@ -83,11 +83,11 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)](#)
 
 ### Hardware architecture
-x86_32
-x86_64
-arm_32
-arm_65
-MIPS
+[x86_32]()
+[x86_64]()
+[arm_32]()
+[arm_64]()
+[MIPS]()
 
 ### CVS
 
