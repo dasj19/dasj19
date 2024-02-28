@@ -89,6 +89,8 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat)](#)
 [![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat)](#)
 [![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat)](#)
+[![Tor Browser Badge](https://img.shields.io/badge/Tor%20Browser-7D4698?logo=torbrowser&logoColor=fff&style=flat)](#)
+[![Firefox Browser Badge](https://img.shields.io/badge/Firefox%20Browser-FF7139?logo=firefoxbrowser&logoColor=fff&style=flat)](#)
 
 ### Hardware architecture
 [![x86_32](https://img.shields.io/badge/x86_32bit-architecture-blue)](#)
@@ -113,5 +115,6 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![Wikipedia Badge](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](#)
 [![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-036?logo=linuxfoundation&logoColor=fff&style=flat)](#)
 [![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=flat)](#)
+[![Tor Project Badge](https://img.shields.io/badge/Tor%20Project-7D4698?logo=torproject&logoColor=fff&style=flat)](#)
 
 ---
