@@ -34,6 +34,10 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![GNU Bash Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white&style=flat)](#)
 
+### Formatting
+[![LaTeX Badge](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=flat)](#)
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat)](#)
+
 ### Package managers
 
 [![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)](#)
@@ -81,13 +85,18 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![Insomnia](https://img.shields.io/badge/Insomnia-4000BF.svg?logo=Insomnia&logoColor=white&style=flat)](#)
 [![wireshark](https://img.shields.io/badge/wireshark-%231679A7.svg?logo=wireshark&logoColor=white&style=flat)](#)
 [![GIMP](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=fff&style=plastic)](#)
+[![LibreOffice Badge](https://img.shields.io/badge/LibreOffice-18A303?logo=libreoffice&logoColor=fff&style=flat)](#)
+[![LibreOffice Calc Badge](https://img.shields.io/badge/LibreOffice%20Calc-007C3C?logo=libreofficecalc&logoColor=fff&style=flat)](#)
+[![LibreOffice Writer Badge](https://img.shields.io/badge/LibreOffice%20Writer-083FA6?logo=libreofficewriter&logoColor=fff&style=flat)](#)
+[![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat)](#)
 
 ### Hardware architecture
-[x86_32]()
-[x86_64]()
-[arm_32]()
-[arm_64]()
-[MIPS]()
+[x86_32](https://img.shields.io/badge/x86_32bit-architecture-blue)
+[x86_64](https://img.shields.io/badge/x86_64bit-architecture-blue)
+[arm_32](https://img.shields.io/badge/arm_32bit-architecture-blue)
+[arm_64](https://img.shields.io/badge/arm_64bit-architecture-blue)
+[MIPS_32](https://img.shields.io/badge/MIPS_32bit-architecture-blue)
+[MIPS_64](https://img.shields.io/badge/MIPS_64bit-architecture-blue)
 
 ### CVS
 
@@ -98,5 +107,11 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![Drupal](https://img.shields.io/badge/Drupal-0678BE?logo=drupal&logoColor=fff&style=flat)](#)
 [![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff&style=flat)](#)
 [![Joomla](https://img.shields.io/badge/Joomla-5091CD?logo=joomla&logoColor=fff&style=plastic)](#)
+
+### Endorsing
+[![Internet Archive Badge](https://img.shields.io/badge/Internet%20Archive-666?logo=internetarchive&logoColor=fff&style=flat)](#)
+[![Wikipedia Badge](https://img.shields.io/badge/Wikipedia-000?logo=wikipedia&logoColor=fff&style=flat)](#)
+[![Linux Foundation Badge](https://img.shields.io/badge/Linux%20Foundation-036?logo=linuxfoundation&logoColor=fff&style=flat)](#)
+[![GNOME Badge](https://img.shields.io/badge/GNOME-4A86CF?logo=gnome&logoColor=fff&style=flat)](#)
 
 ---
