@@ -91,12 +91,12 @@ In my spare time I maintain the software on several servers and routers. I even 
 [![LibreOffice Impress Badge](https://img.shields.io/badge/LibreOffice%20Impress-D0120D?logo=libreofficeimpress&logoColor=fff&style=flat)](#)
 
 ### Hardware architecture
-[x86_32](https://img.shields.io/badge/x86_32bit-architecture-blue)
-[x86_64](https://img.shields.io/badge/x86_64bit-architecture-blue)
-[arm_32](https://img.shields.io/badge/arm_32bit-architecture-blue)
-[arm_64](https://img.shields.io/badge/arm_64bit-architecture-blue)
-[MIPS_32](https://img.shields.io/badge/MIPS_32bit-architecture-blue)
-[MIPS_64](https://img.shields.io/badge/MIPS_64bit-architecture-blue)
+[![x86_32](https://img.shields.io/badge/x86_32bit-architecture-blue)](#)
+[![x86_64](https://img.shields.io/badge/x86_64bit-architecture-blue)](#)
+[![arm_32](https://img.shields.io/badge/arm_32bit-architecture-blue)](#)
+[![arm_64](https://img.shields.io/badge/arm_64bit-architecture-blue)](#)
+[![MIPS_32](https://img.shields.io/badge/MIPS_32bit-architecture-blue)](#)
+[![MIPS_64](https://img.shields.io/badge/MIPS_64bit-architecture-blue)](#)
 
 ### CVS
 
