@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Daniel and I am an open-source technology afficionado.
-I work as Backend Web Developer at a danish media company.
+I am a Backend Web Developer with experience in Drupal, Wordpress and Joomla.
 Not all of my projects are public (yet).
-In my spare time I maintain the software on several servers and routers. I even manage my own email server.
+In my spare time I maintain the software on several servers (NixOS) and routers (OpenWRT). I even manage my own email server with the help of NixOS.
 
 ## 🔋Tech Stack
 
